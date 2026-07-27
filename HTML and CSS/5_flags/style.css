@@ -1,0 +1,24 @@
+body {
+    background-color: aquamarine;
+}
+
+.red {
+    background: #B10023;
+    height: 100px;
+    width: 100px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.blue {
+    background: #0F1378;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.green {
+    background: #367225;
+    height: 100px;
+    margin-top: 10px;
+}
