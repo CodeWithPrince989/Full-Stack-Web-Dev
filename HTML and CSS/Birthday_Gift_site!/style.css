@@ -64,10 +64,25 @@ p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift_card.webp");
+    background-image: url("images/gift-cover.jpg");
     background-size: cover;
 }
 
-.gift-img:hover {
+#gift-img-happy:hover {
     background-image: url("images/bday-gift.gif");
 }
+
+#gift-img-hot:hover {
+    background-image: url("images/bday-cake.webp");
+}
+
+#gift-img-genius:hover {
+    background-image: url("images/genius.webp");
+}
+
+#gift-img-badass:hover {
+    background-image: url("images/badass.gif");
+}
+
+
+
