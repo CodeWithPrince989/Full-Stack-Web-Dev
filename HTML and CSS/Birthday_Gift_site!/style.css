@@ -67,3 +67,7 @@ p {
     background-image: url("images/gift_card.webp");
     background-size: cover;
 }
+
+.gift-img:hover {
+    background-image: url("images/bday-gift.gif");
+}
